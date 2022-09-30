@@ -1,0 +1,5 @@
+{ 
+    "accessKeyId": "enter_your_access_key",
+    "secretAccessKey": "enter_your_secret_here",
+    "region": "eu-west-2"
+}
